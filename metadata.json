@@ -1,0 +1,8 @@
+{
+  "name": "Remix: R11 111 111",
+  "description": "Simulador interactivo de acceso seguro con verificación OTP SMS de dos factores para banca en línea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
